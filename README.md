@@ -15,5 +15,5 @@
 ![Markdown](https://img.shields.io/badge/-JIRA-000000?style=for-the-badge&logo=JiraSoftware&logoColor=3366FF)
 ***
 ## Statistics
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=R0manMarkov&show_icons=true&hide=prs,issues,contribs&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Misterlis&show_icons=true&hide=prs,issues,contribs&theme=dark)
 ***
