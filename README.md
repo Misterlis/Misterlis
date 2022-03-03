@@ -1,8 +1,5 @@
 ## QA Automation Engineer
 ---
-[<font color=000000 size=4>markovroman.com</font>](https://www.markovroman.com/)
----
----
 ## Hard skills
 
 ![flutter](https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=java&logoColor=FF4500)
