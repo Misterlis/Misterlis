@@ -13,7 +13,7 @@
 ***
 ## Statistics
 
-
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Misterlis&theme=dark)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Misterlis&show_icons=true&hide=prs,issues,contribs&theme=dark)
 ***
 
